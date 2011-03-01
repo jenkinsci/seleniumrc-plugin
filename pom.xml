@@ -8,7 +8,7 @@
   </parent>
 
   <artifactId>seleniumrc-plugin</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>SeleniumRC plugin</name>
   <description>This plugin allows you to create Selenium server instance for each project build.</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/SeleniumRC+Plugin</url>
@@ -41,9 +41,9 @@
   </build>
   
   <scm>
-    <connection>scm:svn:https://svn.jenkins-ci.org/tags/seleniumrc-plugin-1.0</connection>
-    <developerConnection>scm:svn:https://svn.jenkins-ci.org/tags/seleniumrc-plugin-1.0</developerConnection>
-    <url>https://hudson.dev.java.net/source/browse/hudson/tags/seleniumrc-plugin-1.0</url>
+    <connection>scm:svn:https://svn.jenkins-ci.org/trunk/hudson/plugins/seleniumrc-plugin</connection>
+    <developerConnection>scm:svn:https://svn.jenkins-ci.org/trunk/hudson/plugins/seleniumrc-plugin</developerConnection>
+    <url>https://hudson.dev.java.net/source/browse/hudson/trunk/hudson/plugins/seleniumrc-plugin</url>
   </scm>
   
 </project>
